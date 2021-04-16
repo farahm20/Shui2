@@ -13,8 +13,8 @@ export default {
   name: "LoginCreds",
   data() {
     return {
-      username: "Farah",
-      password: "abc123",
+      username: "",
+      password: "",
     };
   },
   methods: {
