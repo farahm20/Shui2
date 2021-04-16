@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "uuid": "tl04Dp_J7Y",
+      "username": "Yousha",
+      "password": "$2b$10$8yR1zACjrZ70RwGnClhoMOwjqnExmKE..j67VbM4nD1lta4I8Q.5u",
+      "userkey": "U2FsdGVkX194MWnfGeMRNjGO3xCIlghchZs25xBABJs=",
+      "hashtag": [
+        "#school",
+        "#skating",
+        "#supper"
+      ]
+    },
+    {
+      "uuid": "3ieYdGYPxu",
+      "username": "Younus",
+      "password": "$2b$10$WLsJRSDYjOK5roDWQLNwP.9HzWEls8DD/qLFImBLtt5ktpRl9OqwC",
+      "userkey": "U2FsdGVkX19pApkM6IdN4A2sVeFxM4XY/CEMMusz+Yo=",
+      "hashtag": [
+        "#supper"
+      ]
+    },
+    {
+      "uuid": "fgVL5cXSMo",
+      "username": "uzma",
+      "password": "$2b$10$M4Bi1rmzGUCiIip4EIevPezwg1qrBv6LCJqj4ufmXTsxLqCEdbkXy",
+      "userkey": "U2FsdGVkX1/SCmd9yeDyMARkNbYKpKVevkzICk4hv7c=",
+      "hashtag": []
+    },
+    {
+      "uuid": "hXX7HzqaVN",
+      "username": "yousha",
+      "password": "$2b$10$DbhMmRSi2o80PeeCkfE3M.1fKkwAE93CthR1fuBnMzx.a4t0SADl.",
+      "userkey": "U2FsdGVkX19g8jgYpcWEC6owGMu3bFpcYp4aSAEQq7I=",
+      "hashtag": []
+    },
+    {
+      "uuid": "oJgeWjvlmp",
+      "username": "uzma",
+      "password": "$2b$10$VaCU2ckb/H27TrHbboo6gOMQxRhzjDWCF2x91ySemwMnBtQBJrOsu",
+      "userkey": "U2FsdGVkX1/nRBSK/Se2ky3UvtynWBkdKto851EUL5k=",
+      "hashtag": []
+    },
+    {
+      "uuid": "fFqO0_IGxg",
+      "username": "farah",
+      "password": "$2b$10$HQHc/t01r7hg2tixdHGnj./qfquhTrs9TzsTHVNZISF5KLyN8Mun6",
+      "userkey": "U2FsdGVkX1+EuU9P9QNkSGbgVL54Y6SCQDLw4oajOQ8=",
+      "hashtag": []
+    }
+  ],
+  "streams": [
+    {
+      "streamID": "SiLQyhIbw",
+      "hashtag": "#new",
+      "info": "U2FsdGVkX18iFHKUjHQnzQZit30Hak5xfBzJRrPEYjs=",
+      "user": "Anonymous",
+      "owner": "U2FsdGVkX1/XVR0zalnlGunvekE+bFXPGmaFNKSXMfU=",
+      "date": "4/16/2021, 11:38:42"
+    },
+    {
+      "streamID": "vEf1nhfBZ",
+      "hashtag": "#encrypt",
+      "info": "U2FsdGVkX18HrcBanty+QgudId2ShrqEOibefledepVBn3zYX2iJfBEnEQj6nlKs",
+      "user": "Anonymous",
+      "owner": "U2FsdGVkX1/9A2uncIDKr7xPU89T0t98rVnw6N+svFo=",
+      "date": "4/16/2021, 11:50:01"
+    },
+    {
+      "streamID": "-CL5K7nMj",
+      "hashtag": "#testing",
+      "info": "U2FsdGVkX199Jlbp6qqT6XPGCWmmBzp+Pd9dZ9NzCi/vfH/ZU97lKuyfM+T1YFZj",
+      "user": "Anonymous",
+      "owner": "U2FsdGVkX19dfEBey8fdHZSiWzZXos7laZqhchlrKUk=",
+      "date": "4/16/2021, 12:12:46"
+    },
+    {
+      "streamID": "kVZn0YWpS",
+      "hashtag": "#farah",
+      "info": "U2FsdGVkX19lB00Thwih1GsGwqOLoZy1ekqrYygg/c90qaiCmUXiMx8nvH7JYHka",
+      "user": "Anonymous",
+      "owner": "U2FsdGVkX19KgV7XwLHiiL5gUzkN7p0Q04kW5VTGWuY=",
+      "date": "4/16/2021, 12:17:35"
+    },
+    {
+      "streamID": "VThz--9bb",
+      "hashtag": "#delete",
+      "info": "U2FsdGVkX1/zpqZyliF3DAvB3nseXIdYHBWFJmIVJgvXmMEYWwJkqkOgZkzM6pw0Eueh8e7GFmODQQXH+n4mkA==",
+      "user": "Anonymous",
+      "owner": "U2FsdGVkX19UFdzb5AL6h8qPht9+yFKUU2sAMVHS4q4=",
+      "date": "4/16/2021, 12:18:12"
+    }
+  ]
+}
